@@ -1,0 +1,16 @@
+{
+  "name": "aula-teste-mocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Testes baseado em TDD utilizando a lib Mocha",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "author": "Jefferson da Silva",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.1"
+  }
+}
